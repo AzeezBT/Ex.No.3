@@ -1,4 +1,4 @@
-Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+## Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 ### DATE: 10-09-2025
 
