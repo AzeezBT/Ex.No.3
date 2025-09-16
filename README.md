@@ -2,7 +2,8 @@
 
 ### DATE:15.09.2025                                                                            
 ### REGISTER NUMBER : 212223110046
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+### Aim:
+To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
 # Algorithm
 
