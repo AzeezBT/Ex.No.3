@@ -6,13 +6,13 @@
 
 
 
-Aim
+## Aim
 
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should efficiently handle various customer queries while maintaining a conversational and user-friendly tone. In this experiment, different prompting techniques are employed to guide the chatbot’s development, ranging from task-oriented prompts to persona-driven and reflective prompts.
 
 
 
-Algorithm
+## Algorithm
 
 1. Direct Instruction Prompting
 	•	Objective: Provide concise replies to customer inquiries.
@@ -64,6 +64,6 @@ Comparison Table of Prompting Techniques
 | Reflective Prompting           | Repeat query before answering          | “You’re asking how to reset your password, correct?”   | Reduces misunderstandings             |
 
 
-Result
+## Result
 
 The various types of prompts (Direct, Contextual, Persona-Based, Few-Shot, Chain of Thought, Instruction with Constraints, and Reflective) were successfully executed and demonstrated.
